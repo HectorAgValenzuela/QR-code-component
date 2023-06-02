@@ -12,17 +12,13 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [Useful resources](#useful-resources)
 - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
-
 ## Screenshot
 
 ![](./screenshot.jpeg)
 
 ## Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://hectoragvalenzuela.github.io/QR-code-component/)
 
 ## My process
 
@@ -38,7 +34,7 @@ I want to continue developing in the area of responsiveness, I feel that I still
 
 ### Useful resources
 
-- [Example resource 1](https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_profile_card) - This helped me for start the project. I base my patterns in this code!
+- [Temaplate from W3School](https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_profile_card) - This helped me for start the project. I base my patterns in this code!
 
 ## Author
 
