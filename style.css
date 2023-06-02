@@ -1,0 +1,67 @@
+.attribution { font-size: 11px; text-align: center; margin-top: 10px;}
+.attribution a { color: hsl(228, 45%, 44%); }
+
+body{
+    display: flex;
+    flex-direction: column;  
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+    padding: 0;
+    background-color: rgba(213,225,239,255);
+    font-family: sans-serif;
+    margin-top: 100px;
+}
+
+.card {
+    /* Add shadows to create the "card" effect */
+    box-shadow: 0 4px 8px 0px rgba(0,0,0,0.2);
+    transition: 0.3s;
+
+    background-color: white;
+    text-align: center;
+    max-width: 300px;
+    margin: auto;
+
+    /* width: 20%; */
+
+    border-radius: 20px;
+    padding: 15px;
+}
+
+/* On mouse-over, add a deeper shadow */
+.card:hover {
+    box-shadow: 0 8px 16px 0px rgba(0,0,0,0.2);
+}
+
+.container {
+    padding: 2px 16px;
+}
+
+.text {
+    color: gray;
+}
+
+img {
+    border-radius: 10px;
+}
+
+@media (min-width: 550px) {
+    body {
+        margin-top: 200px;
+    }
+
+}
+
+@media (min-width: 850px) {
+    body {
+        margin-top: 25px;
+    }
+}
+
+@media only screen and (max-width: 600px) {
+    /* Estilos para dispositivos con un ancho máximo de 600px */
+    body {
+        margin-top: 80px;
+    }
+  }
