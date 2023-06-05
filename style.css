@@ -10,7 +10,7 @@ body{
     padding: 0;
     background-color: rgba(213,225,239,255);
     font-family: sans-serif;
-    margin-top: 100px;
+    min-height: 100vh;
 }
 
 .card {
@@ -27,6 +27,8 @@ body{
 
     border-radius: 20px;
     padding: 15px;
+
+    margin: 0 1rem;
 }
 
 /* On mouse-over, add a deeper shadow */
